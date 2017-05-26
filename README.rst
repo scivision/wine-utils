@@ -4,8 +4,13 @@ wine-utils
 
 Shortcuts to use Microsoft Office on Linux from WINE, and Echolink on WINE.
 
-Assumes you have already `installed Microsoft Office 2010 on Linux WINE <https://appdb.winehq.org/objectManager.php?sClass=version&iId=17336>`_
-under the `/.wine-office directory.  
+Assumes you have already installed Microsoft Office on Linux WINE under ``~/.wine-office/`` directory.
+
+Install Microsoft Office on Linux WINE
+======================================
+
+* `Office 2010 <https://appdb.winehq.org/objectManager.php?sClass=version&iId=17336>`_
+* `Office 2016 <https://appdb.winehq.org/objectManager.php?sClass=version&iId=34941>`_
 
 You should `install major Windows programs on LInux using WINE into their own WINEPREFIXes <https://scivision.co/making-wineprefixes-and-using-wineprefixes-wine-1-5/>`_
 
