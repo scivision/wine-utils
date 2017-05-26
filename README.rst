@@ -15,7 +15,7 @@ script         purpose
 ===========    =========
 word           Microsoft Office Word 2010 on Linux WINE
 excel          Microsoft Office Excel 2010 on Linux WINE
-powernt        Microsoft Office Powerpoint 2010 on Linux WINE
+powerpnt        Microsoft Office Powerpoint 2010 on Linux WINE
 
 echolink       Amateur Radio Echolink program start
 ===========    =========
