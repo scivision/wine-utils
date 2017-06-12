@@ -9,7 +9,7 @@ Assumes you have already installed Microsoft Office on Linux WINE under ``~/.win
 Install Microsoft Office on Linux WINE
 ======================================
 
-[Easy install Office 2010 in WINE](https://www.scivision.co/install-microsoft-office-linux-wine/)
+`Easy install Office 2010 in WINE <https://www.scivision.co/install-microsoft-office-linux-wine/>`_
 
 * `Office 2010 <https://appdb.winehq.org/objectManager.php?sClass=version&iId=17336>`_
 * `Office 2016 <https://appdb.winehq.org/objectManager.php?sClass=version&iId=34941>`_
