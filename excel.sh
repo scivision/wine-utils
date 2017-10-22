@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
-env WINEPREFIX=~/.wine-office wine ~/.wine-office/drive_c/Program\ Files/Microsoft\ Office/Office14/EXCEL.EXE
+WINEPREFIX=$HOME/.wine-office wine $HOME/.wine-office/drive_c/Program\ Files/Microsoft\ Office/Office14/EXCEL.EXE
