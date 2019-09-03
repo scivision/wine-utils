@@ -14,13 +14,13 @@ Assumes you have already installed Microsoft Office on Linux WINE under `~/.wine
 ### Install Microsoft Office on Linux WINE
 
 It's easy to 
-[install Microsoft Office 2010 in WINE](https://www.scivision.co/install-microsoft-office-linux-wine/)
+[install Microsoft Office 2010 in WINE](https://www.scivision.dev/install-microsoft-office-linux-wine/)
 
 -   [Office 2010](https://appdb.winehq.org/objectManager.php?sClass=version&iId=17336)
 -   [Office 2016](https://appdb.winehq.org/objectManager.php?sClass=version&iId=34941)
 
 We recommend installing major Windows programs on Linux using WINE each into their own
-[WINEPREFIXes](https://www.scivision.co/making-wineprefix/)
+[WINEPREFIXes](https://www.scivision.dev/making-wineprefix/)
 
  script   | purpose
 ----------|------------
