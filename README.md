@@ -30,10 +30,3 @@ We recommend installing major Windows programs on Linux using WINE each into the
  echolink | Amateur Radio Echolink program start
 
 
-## Notes
-
-Where's the unit test? 
-
-* These scripts are so simple
-* the scripts may need slight tweaks by the end user for their version of office or directory layout.
-* WINE is rather too bulky to install in a fresh CI image each time without Docker
